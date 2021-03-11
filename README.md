@@ -18,3 +18,4 @@ You will see User Interface, where by inserting "1" you will be able to compress
 
 ## Author
 + Jakupov Dias - University of Exeter student
++ You can find my project on https://github.com/Dias2406/CA_Huffman
